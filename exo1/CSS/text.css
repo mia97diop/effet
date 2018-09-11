@@ -1,0 +1,23 @@
+html {
+ margin: 0;
+ padding: 0;
+ }
+body { 
+ color: #555753; 
+ margin: 0; 
+ padding: 0;
+ }
+div {
+   text-align: center;
+}
+button
+{
+	width:200px;
+    height:40px;
+	background-color:pink;
+	font-size: 14pt;
+text-align: center;
+position: relative;
+top: 7px;
+border-radius: 100px;
+}
